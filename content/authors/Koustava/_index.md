@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a third year PhD Student at the [Insight Centre for Data Analytics] (https://www.insight-centre.org/) at the National University of Ireland,Galway, 
+I am a third year PhD Student at the [Insight Centre for Data Analytics](https://www.insight-centre.org/) at the National University of Ireland,Galway, 
 
 
