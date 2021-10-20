@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Koustava Goswami
 
 # Is this the primary user of the site?
 superuser: true
