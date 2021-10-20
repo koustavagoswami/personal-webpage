@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Artificial Intelligence and Natural Language Processing
+    institution: Insight Centre for Data Analytics, National University of Ireland Galway, Ireland
+    year: 2023
+  - course: MSc. in Computer Science
+    institution: National University of Ireland Galway, Ireland
+    year: 2019
+  - course: BTech in Computer Science and Engineering
+    institution: West Bengal University of Technology, India
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
